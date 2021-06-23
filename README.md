@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python,c.....
 - 💞️ I’m looking to collaborate on github...
-- 📫 How to reach me meshramdaksh3@gmail.com
+- 📫 How to reach me here linkdin https://www.linkedin.com/in/dakshmeshram
 
 <!---
 Daksh-ai/Daksh-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
